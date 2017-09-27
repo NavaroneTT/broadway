@@ -31,7 +31,7 @@ p{
     color: white;
 }
 
-    .nav-item{
+    .nav__item{
         list-style-type: none;
         text-decoration: underline;
         margin-bottom: 10px;
